@@ -8,7 +8,7 @@ import { appStore } from './ApplicationStore/LoginStore'
 
 import { Provider } from 'react-redux';
 
-import { BrowserRouter as Router, Routes,
+import { HashRouter as Router, Routes,
 Route } from 'react-router-dom';
 
 import './App.css';
